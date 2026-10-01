@@ -15,16 +15,12 @@ Banyaknya produk kecantikan di pasaran yang masih menggunakan bahan kimia keras 
 
 ---
 
-## Teknologi
+## Teknologi dan cara menjalankan
 
 - **Framework**: Next.js (App Router)
 - **Runtime**: Node.js v24 LTS
 - **Bahasa**: TypeScript
 - **Styling**: Tailwind CSS
-
----
-
-## Cara Menjalankan Proyek
 
 ### Prasyarat
 
