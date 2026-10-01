@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Natura
 
-## Getting Started
+Natura adalah platform aplikasi web berbasis produk kecantikan yang mengusung bahan-bahan alami dan ramah lingkungan. Aplikasi ini hadir untuk memberikan solusi aman bagi kesehatan kulit penggunanya dengan menghadirkan alternatif perawatan wajah dan tubuh yang bebas dari bahan kimia berbahaya.
 
-First, run the development server:
+## Deskripsi Produk
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Banyaknya produk kecantikan di pasaran yang masih menggunakan bahan kimia keras (seperti paraben, sulfat, dan bahan sintetis berbahaya lainnya) sering kali menimbulkan iritasi, efek samping jangka panjang, hingga merusak ekosistem lingkungan.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Natura** hadir untuk menyelesaikan permasalahan tersebut dengan:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Formulasi Alami & Aman**: Menyediakan pilihan produk perawatan kulit berbahan dasar organik dan alami tanpa tambahan bahan kimia sintetis berbahaya.
+- **Transparansi Bahan**: Membantu pengguna memahami secara rinci komposisi dan manfaat dari setiap bahan alami yang digunakan.
+- **Perawatan Berkelanjutan**: Mengedukasi dan memudahkan masyarakat dalam beralih ke gaya hidup _clean beauty_ yang aman bagi kulit sekaligus ramah lingkungan.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Teknologi
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: Next.js (App Router)
+- **Runtime**: Node.js v24 LTS
+- **Bahasa**: TypeScript
+- **Styling**: Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Cara Menjalankan Proyek
 
-## Deploy on Vercel
+### Prasyarat
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Pastikan lingkungan pengembangan Anda telah terpasang:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Node.js**: v24.x.x LTS
+- **npm**: v11.x.x (atau versi bawaan Node.js)
+- **Git**
+
+### Langkah-Langkah
+
+1. **Masuk ke Folder Proyek**
+   ```bash
+   cd C:\Kuliah\PraktikumPemweb\natura
+   ```
