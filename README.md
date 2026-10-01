@@ -10,7 +10,7 @@ Banyaknya produk kecantikan di pasaran yang masih menggunakan bahan kimia keras 
 
 - **Formulasi Alami & Aman**: Menyediakan pilihan produk perawatan kulit berbahan dasar organik dan alami tanpa tambahan bahan kimia sintetis berbahaya.
 - **Transparansi Bahan**: Membantu pengguna memahami secara rinci komposisi dan manfaat dari setiap bahan alami yang digunakan.
-- **Perawatan Berkelanjutan**: Mengedukasi dan memudahkan masyarakat dalam beralih ke gaya hidup _clean beauty_ yang aman bagi kulit sekaligus ramah lingkungan.
+- **Perawatan Berkelanjutan**: Mengedukasi dan memudahkan masyarakat dalam beralih ke gaya hidup _clean beauty_ yang aman bagi kulit sekaligus ramah lingkungan. aman nyaman
 
 ---
 
